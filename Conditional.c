@@ -12,12 +12,7 @@ int main(){
 
     // an operator precidence defines which operator will execute among many operator
     // operator with higher precidence is execute before lower precedencie operator
-
-    if(a>b){
-        printf("a is big");
-    } else {
-        printf("B is big");
-    }    
+  
 
     // operator associativity determines the order in which operators of the same precedence are evaluated 
     // associativity can be left to right or right to left depending on the operator
@@ -30,7 +25,18 @@ int main(){
     //select statement --------------------------------
 
     
+    if(a>b){
+        printf("a is big");
+    } else {
+        printf("B is big");
+    }  
 
+    // note :- in case of the if block only one statement is there then curly braces is optional but it is a good practice to give curly braces.
+     if(a>b)
+        printf("a is big");
+
+
+        // wap enter the mark of a particular subject and display the grade
 
 
 

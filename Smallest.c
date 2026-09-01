@@ -28,4 +28,4 @@ int main(){
     return 0;
 }
 
-// wap enter 5 sub mark for a student then display the grde ship of student
+// wap enter 5 sub mark for a student then display the grde ship of student   lab exp - 2 

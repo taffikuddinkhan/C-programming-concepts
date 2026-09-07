@@ -10,19 +10,19 @@ int main(){
 
     if(a<b){
         if(a<c){
-            printf("a is smallest");
+            printf("%d is smallest" , a);
         }
         else{
-            printf("c is smallest");
+            printf("%d is smallest" , c);
         }
     }
     else{
 
         if(b<c){
-            printf("b is small");
+            printf("%d is small",b);
         }
         else{
-            printf("c is small");
+            printf("%d is small",c);
         }
     }
     return 0;

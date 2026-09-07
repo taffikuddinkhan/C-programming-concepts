@@ -17,7 +17,7 @@ int main(){
         case 'O' :
             printf("vowel");
             break;
-        case 'U' :
+        case 'U': 
             printf("vowel");
             break;  
         default :

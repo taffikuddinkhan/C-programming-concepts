@@ -31,6 +31,6 @@ int main(){
     }
 
     // if we dont know the number of reprtation then we go for the do while 
-    
+    // at least 1 time do while loop will be execute 
     return 0;
 }

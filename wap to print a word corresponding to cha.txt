@@ -1,10 +1,11 @@
-wap to print a word corresponding to character A-E
-wap enter a number in btwn 0-6 and print the correspondind day
-wap enter a character and check wheather it is a vowel constant
-wap print the natural number from 50 to 1
-wap to print even no from a particular range
-wap reverse an integer number
-wap print natural num enetred by user till usen dont enter 0;
+eXP 1------- Basic input and output programs (printf() , scanf())
+wap to print a word corresponding to character A-E --
+wap enter a number in btwn 0-6 and print the correspondind day --
+wap enter a character and check wheather it is a vowel constant --
+wap print the natural number from 50 to 1 --
+wap to print even no from a particular range --
+wap reverse an integer number --
+wap print natural num enetred by user till usen dont enter 0 --
 
 
 Exp 2----- impl of selection statemnt (if,if else,loop)

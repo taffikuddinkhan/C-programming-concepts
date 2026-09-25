@@ -27,5 +27,17 @@ wap to count the digits of a number --
 input a num and check num is palindrome or not --
 simple menue driven calculator --
 
+exp 4 ----- pattern printing
+pyramid
+half pyramid
+number pyramid etc
+
+exp 5 ------ functions 
+wap input a decimal number and print the correponding binary by using function
+wap to input a num n and find the prime factorization of the number using function
+wap findout the factorial of a number using function
+
+
+
 
 

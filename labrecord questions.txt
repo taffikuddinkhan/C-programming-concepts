@@ -38,6 +38,10 @@ wap to input a num n and find the prime factorization of the number using functi
 wap findout the factorial of a number using function --
 
 
+questions---- not lab record
+factorial using recursion
+
+
 
 
 

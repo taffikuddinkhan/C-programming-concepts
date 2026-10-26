@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int factorial(int n){
     int result;
     if(n==0){
@@ -13,5 +14,5 @@ int factorial(int n){
 int main(){
 
     int val = factorial(4);
-    printf("%d",val);
+    printf("factorial : %d",val);
 }

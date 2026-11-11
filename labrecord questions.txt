@@ -38,8 +38,10 @@ wap to input a num n and find the prime factorization of the number using functi
 wap findout the factorial of a number using function --
 
 
-questions---- not lab record
-factorial using recursion
+exp 8 ------------------- recursion
+fibonaci series up to n term using secursion --
+wap to find ou the factorial of a number using recursion --
+wap swap of two number using call by address --
 
 
 

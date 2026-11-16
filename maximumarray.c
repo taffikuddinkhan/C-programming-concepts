@@ -33,7 +33,7 @@ int max_sum(){
 int main(){
 
     int max = max_sum();
-    printf("max sum :- %d",max);
+    printf("max sum : %d",max);
 
     return 0;
 }

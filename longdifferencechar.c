@@ -36,7 +36,7 @@ int max_diff(){
 int main(){
 
     int max = max_diff();
-    printf("max diff :- %d",max);
+    printf("max diff : %d",max);
 
     return 0;
 }
